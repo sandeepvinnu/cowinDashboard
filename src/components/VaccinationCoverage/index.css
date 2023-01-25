@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.success-container {
+  margin-top: 20px;
+  border-radius: 12px;
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+}
+
+.s-head {
+  font-weight: 'Roboto';
+  color: #cbd5e1;
+  font-weight: 500;
+  font-size: 24px;
+}
